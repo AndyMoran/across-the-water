@@ -1,0 +1,11 @@
+pandas>=2.0
+numpy>=1.24
+requests>=2.31
+python-dotenv>=1.0
+statsmodels>=0.14
+lightgbm>=4.0
+jupyter>=1.0
+nbformat>=5.9
+matplotlib>=3.7
+seaborn>=0.12
+scipy>=1.11
